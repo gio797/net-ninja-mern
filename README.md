@@ -7,3 +7,4 @@ MERN-Stack-Tutorial
 3. Express Router & API Routes
 4. MongoDB Atlas & Mongoose
 5. Models & Schemas
+6. Controllers
