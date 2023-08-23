@@ -1,8 +1,10 @@
 import express from "express";
 import {
   createWorkout,
+  deleteWorkout,
   getWorkout,
   getWorkouts,
+  updateWorkout,
 } from "../controller/workoutControllers.js";
 
 const router = express.Router();
@@ -17,13 +19,9 @@ router.get("/:id", getWorkout);
 router.post("/", createWorkout);
 
 //DELETE workout
-router.delete("/:id", (req, res) => {
-  res.json({ msg: "workout delete" });
-});
+router.delete("/:id", deleteWorkout);
 
 //UPDATE workout
-router.patch("/:id", (req, res) => {
-  res.json({ msg: "workout update" });
-});
+router.patch("/:id", updateWorkout);
 
 export default router;
