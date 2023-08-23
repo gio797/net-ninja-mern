@@ -8,3 +8,4 @@ MERN-Stack-Tutorial
 4. MongoDB Atlas & Mongoose
 5. Models & Schemas
 6. Controllers
+7. Making a React App
