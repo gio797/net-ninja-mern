@@ -15,3 +15,4 @@ MERN-Stack-Tutorial
    2 - use proxy -- during dev only:
    - put property in package.json of frontend -- "proxy": "http://localhost:4000" at a top.
    - in fetch use only: fetch("/api/workouts")
+9. Adding React Context
