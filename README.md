@@ -16,3 +16,5 @@ MERN-Stack-Tutorial
    - put property in package.json of frontend -- "proxy": "http://localhost:4000" at a top.
    - in fetch use only: fetch("/api/workouts")
 9. Adding React Context
+10. Add delete functionality.
+11. Handling error response
