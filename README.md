@@ -18,3 +18,6 @@ MERN-Stack-Tutorial
 9. Adding React Context
 10. Add delete functionality.
 11. Handling error response
+    /// create user
+12. User Routes, Controller & Model
+13. Signing Up & Hashing Passwords
