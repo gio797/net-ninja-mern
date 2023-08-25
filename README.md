@@ -21,3 +21,4 @@ MERN-Stack-Tutorial
     /// create user
 12. User Routes, Controller & Model
 13. Signing Up & Hashing Passwords
+14. Email & Password Validation
