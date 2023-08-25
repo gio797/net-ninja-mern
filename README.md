@@ -2,7 +2,9 @@
 
 MERN-Stack-Tutorial
 
-1. Review of the project
+This is the workouts fullstack app.
+
+1. Environment setup
 2. Express App setup
 3. Express Router & API Routes
 4. MongoDB Atlas & Mongoose
