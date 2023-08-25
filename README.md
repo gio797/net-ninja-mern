@@ -24,3 +24,5 @@ This is the workouts fullstack app.
 12. User Routes, Controller & Model
 13. Signing Up & Hashing Passwords
 14. Email & Password Validation
+15. sign in Token
+16. logging in users
