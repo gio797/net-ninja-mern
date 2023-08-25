@@ -4,6 +4,7 @@ dotEnv.config();
 import mongoose from "mongoose";
 import cors from "cors";
 import workoutRoutes from "./Routes/workouts.js";
+import userRoutes from "./Routes/user.js";
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use((req, res, next) => {
 
 //routes
 app.use("/api/workouts", workoutRoutes);
+app.use("/api/user", userRoutes);
 
 //connect to db
 mongoose
