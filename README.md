@@ -31,3 +31,4 @@ This is the workouts fullstack app.
 19. Making a useSignup Hook
 20. Making a useLogout Hook
 21. Making a useLogin Hook
+22. Setting the Initial Auth Status
