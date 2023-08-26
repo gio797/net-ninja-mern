@@ -29,3 +29,4 @@ This is the workouts fullstack app.
 17. Create React Auth Context
 18. Login & Signup Forms
 19. Making a useSignup Hook
+20. Making a useLogout Hook
