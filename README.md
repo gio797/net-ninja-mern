@@ -26,3 +26,4 @@ This is the workouts fullstack app.
 14. Email & Password Validation
 15. sign in Token
 16. logging in users
+17. Create React Auth Context
