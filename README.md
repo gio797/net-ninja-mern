@@ -33,3 +33,5 @@ This is the workouts fullstack app.
 21. Making a useLogin Hook
 22. Setting the Initial Auth Status
 23. Protecting API Routes
+24. Making authorized request
+25. Protecting React Routes
