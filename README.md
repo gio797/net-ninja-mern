@@ -35,3 +35,4 @@ This is the workouts fullstack app.
 23. Protecting API Routes
 24. Making authorized request
 25. Protecting React Routes
+26. Assigning Workouts to Users
